@@ -1,0 +1,10 @@
+#idea
+.idea/
+*.iml
+#output
+target/
+logs/*
+*/**/target
+ip/
+
+
